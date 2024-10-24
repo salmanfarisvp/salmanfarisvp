@@ -5,3 +5,5 @@
 -  Personal Blog [salmanfarisvp.com](https://salmanfarisvp.com/)
 -  Electronics Projects [hackster.io/salmanfarisvp](https://www.hackster.io/Salmanfarisvp)
 
+<hr>
+
